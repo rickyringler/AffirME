@@ -1,84 +1,18 @@
 body {
-  background: url("https://media4.giphy.com/media/ec5iuhc2aM9o3uK64q/giphy.gif?cid=ecf05e474w1lohb4xj4gezl4q1074ni3m06qe5foiomfs2ft&ep=v1_gifs_search&rid=giphy.gif&ct=g")no-repeat center center fixed;
-  background-size: cover
+  background: url("https://www.icegif.com/wp-content/uploads/2022/03/icegif-585.gif")no-repeat center center fixed;
+  background-size: contain
+  background-color: #FFFFFF; /* WHITE */
 }
 button {
-  background-color: #C0C0C0; /* Green */
+  background-color: #C0C0C0; /* GRAY SILVER COLOUR */
   border: none;
   color: white;
   padding: 30px 62px;
   text-align: center;
+  margin: auto;
+  display: flex;
+  display: grid;
   text-decoration: none;
   display: inline-block;
   font-size: 22px;
-}
-/*
- * Formatting the header area
- */
-header {
-  background-color: #DFB887;
-  height: 35px;
-  width: 100%;
-  opacity: .9;
-  margin-bottom: 10px;
-}
-header h1.logo {
-  margin: 0;
-  font-size: 5em;
-  color: #fff;
-  text-transform: uppercase;
-  float: CENTER;
-}
-header h1.logo:hover {
-  color: #fff;
-  text-decoration: none;
-}
-/*
- * Centering the body content
- */
-.container {
-  width: 1200px;
-  margin: 0 auto;
-}
-div.home {
-  padding: 10px 0 30px 0;
-  background-color: #E6E6FA;
-  -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
-}
-div.about {
-  padding: 10px 0 30px 0;
-  background-color: #E6E6FA;
-  -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
-}
-h2 {
-  font-size: 3em;
-  margin-top: 40px;
-  text-align: center;
-  letter-spacing: -2px;
-}
-h3 {
-  font-size: 1.7em;
-  font-weight: 100;
-  margin-top: 30px;
-  text-align: center;
-  letter-spacing: -1px;
-  color: #999;
-}
-.menu {
-  float: right;
-  margin-top: 8px;
-}
-.menu li {
-  display: inline;
-}
-.menu li + li {
-  margin-left: 35px;
-}
-.menu li a {
-  color: #444;
-  text-decoration: none;
 }

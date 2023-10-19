@@ -1,17 +1,17 @@
 from flask import Flask, render_template, url_for, request, redirect, flash
-from flask_sqlalchemy import SQLAlchemy
-from datetime import datetime as dt
-import os
-from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
+
+
 @app.route("/")
 def home():
     return render_template("home.html",
                            title="Home")
+def test():
+   pass
 @app.route("/todaysaffirmation")
 def affirmation():
-    return render_template("todays_affirmations",
+    return render_template("todays_affirmation",
                            title="TodaysAffirmation")
 @app.route("/philosophyquote")
 def quote():

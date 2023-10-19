@@ -1,0 +1,10 @@
+{"affirmation":"You are learning valuable lessons from yourself every day"}
+{"affirmation":"10x engineers are a myth"}
+{'affirmation': 'I admire you for taking this on'}
+{'affirmation': 'The path to success is to take massive, determined action'}
+{'affirmation': 'You are learning valuable lessons from yourself every day'}
+{'affirmation': 'Success is the progressive realization of a worthy goal'}
+{'affirmation': 'It is not a sprint, it is a marathon. One step at a time'}
+{'affirmation': 'I give myself permission to do what is right for me'}
+{'affirmation': "If everything was easy you'd be bored"}
+{'affirmation': 'Sucking at something is the first step towards being good at something'}
