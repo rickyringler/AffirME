@@ -8,3 +8,19 @@
 {'affirmation': 'I give myself permission to do what is right for me'}
 {'affirmation': "If everything was easy you'd be bored"}
 {'affirmation': 'Sucking at something is the first step towards being good at something'}
+{'affirmation': 'You are worthy and deserving of respect'}
+{'affirmation': 'Small progress is still progress'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': "Don't forget to enjoy the journey"}
+{'affirmation': "Don't worry if you find flaws in your past creations, it's because you've evolved"}
+{'affirmation': 'It’s what you practice in private that you will be rewarded for in public'}
+{'affirmation': 'It is not a sprint, it is a marathon. One step at a time'}
+{'affirmation': 'Success is the progressive realization of a worthy goal'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': "You'll figure it out"}
+{'affirmation': '10x engineers are a myth'}
+{'affirmation': 'We are all works in progress'}
+{'affirmation': "It'll feel magical when it's working"}
+{'affirmation': "Don't forget to enjoy the journey"}
+{'affirmation': 'The opposite of courage in our society is not cowardice... it is conformity'}
+{'affirmation': '10x engineers are a myth'}

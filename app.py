@@ -1,5 +1,5 @@
-from flask import Flask, render_template, url_for, request, redirect, flash
-
+from flask import Flask, render_template
+from task_scheduler import *
 app = Flask(__name__)
 
 
@@ -7,20 +7,19 @@ app = Flask(__name__)
 def home():
     return render_template("home.html",
                            title="Home")
-def test():
-   pass
 @app.route("/todaysaffirmation")
 def affirmation():
-    return render_template("todays_affirmation",
+    return render_template("todays_affirmation.html",
                            title="TodaysAffirmation")
+
 @app.route("/philosophyquote")
 def quote():
     return render_template("philosophy_quotes.html",
-                           title="TodaysPhilosophyQuote")
+                           title="TodaysPhilosophyQuote", data=temp_affirmation)
 @app.route("/yogapose")
 def yoga():
     return render_template("yoga_poses.html",
-                           title="TodaysYogaPose")
+                           title="TodaysYogaPose", data=temp_pose)
 
 if __name__=="__main__":
     app.run(debug=True)

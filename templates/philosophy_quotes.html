@@ -10,10 +10,15 @@
 <title></title>
 <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
 <body>
-<div class="text-center">
+<div class="text-center" div style="text-align:center">
+
     <button onclick="location.href = 'http://127.0.0.1:5000/todaysaffirmation';" id="myButtonOne" class="float-left submit-button" >Affirmation</button>
     <button onclick="location.href = 'http://127.0.0.1:5000';" id="myButtonTwo" class="float-left submit-button" >Home</button>
     <button onclick="location.href = 'http://127.0.0.1:5000/yogapose';" id="myButtonThree" class="float-left submit-button" >Yoga Pose</button>
+</div>
+<div style="position: relative">
+    <p style="position: fixed; bottom: 0; width:100%; text-align: center"> {{data}}
+    </p>
 </div>
 </body>
 </html>

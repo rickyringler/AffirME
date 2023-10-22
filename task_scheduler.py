@@ -1,5 +1,11 @@
+"""
+What does this do?
+1. Creates class for requests. Gets data from APIs.
+2. Class method gets data, creats database, stores data.
+3. Luigi pipeline executes and orchestrates getting data.
+"""
+
 import luigi
-import pandas
 import requests
 import json
 from datetime import date
@@ -26,13 +32,18 @@ class apiRequest():
         except: f"Error with source site{self.url}"
 
 affirmation = apiRequest("affirmationsData","https://www.affirmations.dev/")
-affirmation.getRequest()
-
-quote = apiRequest("quoteData","https://philosophy-quotes-api.glitch.me")
-quote.getRequest()
+temp_affirmation = affirmation.getRequest()
 
 pose = apiRequest("poseData","https://yoga-api-nzy4.onrender.com/v1")
-pose.getRequest()
+temp_pose = pose.getRequest()
+
+'''
+
+
+quote = apiRequest("quoteData","https://philosophy-quotes-api.glitch.me")
+print(quote.getRequest()
+
+
 
 
 class GetAffirmation(luigi.Task):
@@ -60,3 +71,4 @@ class GetPose(luigi.Task):
 if __name__ == '__main__':
     luigi_run_results = luigi.build([GetPose(),GetQuote(),GetAffirmation()],detailed_summary=True,
                 local_scheduler=False)
+'''
