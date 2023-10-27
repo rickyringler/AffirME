@@ -24,3 +24,61 @@
 {'affirmation': "Don't forget to enjoy the journey"}
 {'affirmation': 'The opposite of courage in our society is not cowardice... it is conformity'}
 {'affirmation': '10x engineers are a myth'}
+{'affirmation': 'You are a capable human'}
+{'affirmation': "Everything has cracks - that's how the light gets in"}
+{'affirmation': "Struggling means you're learning"}
+{'affirmation': "If everything was easy you'd be bored"}
+{'affirmation': 'Your mind is full of brilliant ideas'}
+{'affirmation': 'Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid'}
+{'affirmation': 'Your life is about to be incredible'}
+{'affirmation': "Don't forget to enjoy the journey"}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': "You'll figure it out"}
+{'affirmation': 'You are learning valuable lessons from yourself every day'}
+{'affirmation': 'Starting is the most difficult step - but you can do it'}
+{'affirmation': 'The path to success is to take massive, determined action'}
+{'affirmation': 'You can do it'}
+{'affirmation': 'Your life is about to be incredible'}
+{'affirmation': 'You are a capable human'}
+{'affirmation': 'You make a difference in the world by simply existing in it'}
+{'affirmation': "I know you'll sort it out"}
+{'affirmation': 'I believe in you'}
+{'affirmation': 'Your life is already a miracle of chance waiting for you to shape its destiny'}
+{'affirmation': 'We are all works in progress'}
+{'affirmation': 'Your life is about to be incredible'}
+{'affirmation': 'People with goals succeed because they know where they’re going'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': 'Sucking at something is the first step towards being good at something'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': 'It’s what you practice in private that you will be rewarded for in public'}
+{'affirmation': 'It is not a sprint, it is a marathon. One step at a time'}
+{'affirmation': "You'll figure it out"}
+{'affirmation': "You're doing a great job"}
+{'affirmation': 'The path to success is to take massive, determined action'}
+{'affirmation': 'All you need is the plan, the roadmap, and the courage to press on to your destination'}
+{'affirmation': 'Your life is already a miracle of chance waiting for you to shape its destiny'}
+{'affirmation': "Don't forget to enjoy the journey"}
+{'affirmation': 'The path to success is to take massive, determined action'}
+{'affirmation': 'The opposite of courage in our society is not cowardice... it is conformity'}
+{'affirmation': 'You make a difference in the world by simply existing in it'}
+{'affirmation': 'Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid'}
+{'affirmation': "Don't worry if you find flaws in your past creations, it's because you've evolved"}
+{'affirmation': "You'll find a way"}
+{'affirmation': 'The past does not equal the future'}
+{'affirmation': 'Failure is just another way to learn how to do something right'}
+{'affirmation': 'The past does not equal the future'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': 'You make a difference in the world by simply existing in it'}
+{'affirmation': 'The path to success is to take massive, determined action'}
+{'affirmation': "I'm rooting for you"}
+{'affirmation': 'I give myself permission to do what is right for me'}
+{'affirmation': "Don't worry if you find flaws in your past creations, it's because you've evolved"}
+{'affirmation': 'People with goals succeed because they know where they’re going'}
+{'affirmation': "You're a smart cookie"}
+{'affirmation': 'The opposite of courage in our society is not cowardice... it is conformity'}
+{'affirmation': "Struggling means you're learning"}
+{'affirmation': 'It is not a sprint, it is a marathon. One step at a time'}
+{'affirmation': 'Sucking at something is the first step towards being good at something'}
+{'affirmation': "It'll feel magical when it's working"}
+{'affirmation': 'Struggling is part of learning'}
+{'affirmation': "If everything was easy you'd be bored"}

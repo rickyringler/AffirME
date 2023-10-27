@@ -16,3 +16,9 @@ button {
   display: inline-block;
   font-size: 22px;
 }
+p {
+ text-align: center;
+line-height: 100px;
+font-size: 36px;
+
+}
