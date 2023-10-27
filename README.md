@@ -1,8 +1,11 @@
 # AffirME
-Application for wellbeing prompting daily affirmations, philosophy quotes, and yoga poses.
+Application for wellbeing prompting daily, randomized, affirmations, philosophy quotes, and yoga poses.
+
+![image](https://github.com/rickyringler/AffirME/assets/135162902/80a63a15-dd22-41f5-b16d-586f5a3bc9f2)
+
 
 The goal of this project is to demonstrate competency with fundamental data engineering principles
-and programming concepts.
+and sustainable programming.
 
 This project demonstrates comprehension in:
 
