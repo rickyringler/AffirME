@@ -13,3 +13,6 @@ Object-Oriented Programming (OOP)
 Versioning Control Systems (Git)
 
 Note: This probably isn't the most efficient structure for creating an app of this scale but this was definitely the most fun method ;)
+
+![image](https://github.com/rickyringler/AffirME/assets/135162902/02c5ca1f-0c2d-4bc9-937d-ff8e4ad76418)
+
