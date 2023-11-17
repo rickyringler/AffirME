@@ -6,11 +6,11 @@ and programming concepts.
 
 This project demonstrates comprehension in:
 
-Application Development (Python, Flask, HTML, CSS)
-Application Programming Interfaces (APIs, JSON)
-Data Pipelines and Scheduling (Luigi)
-Object-Oriented Programming (OOP)
-Versioning Control Systems (Git)
+Application Development (Python, Flask, HTML, CSS)  &nbsp;
+Application Programming Interfaces (APIs, JSON) &nbsp;
+Data Pipelines and Scheduling (Luigi) &nbsp;
+Object-Oriented Programming (OOP) &nbsp;
+Versioning Control Systems (Git) &nbsp;
 
 Note: This probably isn't the most efficient structure for creating an app of this scale but this was definitely the most fun method ;)
 
