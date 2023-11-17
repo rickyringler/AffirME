@@ -6,8 +6,8 @@ and programming concepts.
 
 This project demonstrates comprehension in:
 
-These tools: Python, Flask, HTML, CSS, APIs, JSON, Luigi,
-These concepts: OOP, Version Contorl, and APIs.
+These tools: **Python, Flask, HTML, CSS, APIs, JSON, Luigi,**
+These concepts: **OOP, Version Contorl, and APIs.**
 
 Note: This probably isn't the most efficient structure for creating an app of this scale but this was definitely the most fun method ;)
 
