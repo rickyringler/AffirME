@@ -6,8 +6,7 @@ and programming concepts.
 
 This project demonstrates comprehension in:
 
-Application Development (Python, Flask, HTML, CSS)  &nbsp;
-Application Programming Interfaces (APIs, JSON) &nbsp;
+Application Development (Python, Flask, HTML, CSS)&nbsp;Application Programming Interfaces (APIs, JSON) &nbsp;
 Data Pipelines and Scheduling (Luigi) &nbsp;
 Object-Oriented Programming (OOP) &nbsp;
 Versioning Control Systems (Git) &nbsp;
