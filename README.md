@@ -21,6 +21,6 @@ This repository does not provide an explicit framework for self-starters such as
 
 ## Requirements
 
-Procedural and object-oriented Python skills.
-Basic HTML & CSS.
+1. Procedural and object-oriented Python skills.
+2. Basic HTML & CSS.
 
