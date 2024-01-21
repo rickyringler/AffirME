@@ -1,12 +1,16 @@
+'''
+
+>>>>>>>>>>>>CONTEXT
+
+Luigi is a popular data pipeline tool.
+Similar tools include Apache-Airflow and Azure Data Factory.
+In the context of this repo, Luigi orchestrates HTTP GET requests against open-sourced APIs.
+Luigi also ensures platform stability against unexpected behavior.
+
+'''
+
 import luigi
 from classes_and_methods import *
-
-"""
-What does this do?
-1. Luigi imports all class and methods from classes_and_methods Python script.
-2. Luigi asks the objects to execute their methods.
-3. Tasks rely on an output in order to be classified as successful.
-"""
 
 class GetAffirmation(luigi.Task):
     def requires(self):
