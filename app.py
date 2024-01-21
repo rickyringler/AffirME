@@ -2,6 +2,17 @@
 #Repo : https://github.com/rickyringler/AffirME
 #Documentation : https://github.com/rickyringler/AffirME/blob/master/README.md
 
+'''
+
+>>>>>>>>>>>>CONTEXT
+
+Flask is a popular application development framework.
+Similar tools include Django and FastAPI.
+Flask is often dubbed a microapplication or microservice development tool, because of the lightweight, portable, simplistic nature of the framework.
+In the context of this repo, we use Flask to build our application on our local port with a simple, appealing GUI.
+
+'''
+
 from flask import Flask, render_template
 from task_scheduler import *
 app = Flask(__name__)
