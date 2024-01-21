@@ -1,11 +1,12 @@
 # AffirME
 
 ![Streamlit Logo](https://github.com/rickyringler/Streamlit_Starter_Guide_with_Authentication/assets/135162902/b66d4fe6-d2fc-4bc0-869a-3dbdf428e214)
+*This repository exemplifies application development; consolidating data engineering principals and programming concepts into one portable, reliable application.*
 
-This repository exemplifies application development; consolidating data engineering principals and programming concepts into one portable, reliable application.
-
+## Use Cases
 This repository is ideal for individuals interested in maintaining an application with minimal overhead and inputs.
 
+## Background
 This repository builds an application locally named "AffirME" and provides users with a GUI to generate daily affirmations, yoga poses, and philosophy quotes from multiple open-sourced APIs. This is critical, because full-scale projects often require several external APIs to function, and failing to provide an environment to process data and handle unexpected behavior will ultimately result in a crash. This project includes safeguards against external pitfalls.
 
 This repository does not provide an explicit framework for self-starters such as a tutorial, and intermediate programming knowledge is assumed, so modification of the source code will be dependent on users' capacity - this is a no hand holding repository.
