@@ -1,7 +1,7 @@
 # AffirME
 
 ## Use Cases
-This repository is ideal for individuals interested in maintaining an application with minimal overhead and inputs.
+This repository is ideal for individuals interested in learning basic application development with minimal overhead and inputs.
 
 ## Background
 This repository builds an application locally named "AffirME" and provides users with a GUI to generate daily affirmations, yoga poses, and philosophy quotes from multiple open-sourced APIs. This is critical, because full-scale projects often require several external APIs to function, and failing to provide an environment to process data and handle unexpected behavior will ultimately result in a crash. This project includes safeguards against external pitfalls.
