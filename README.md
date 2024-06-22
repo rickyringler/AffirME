@@ -1,6 +1,4 @@
-# AffirME
-
-## Simplified Flask and API development
+# Simplified Flask and API development
 
 ## Project Screenshots
 ![Screenshot 1](https://github.com/rickyringler/AffirME/assets/135162902/02c5ca1f-0c2d-4bc9-937d-ff8e4ad76418)
@@ -11,10 +9,4 @@
 
 1. **User and Developer interfaces:** Lightweight and portable with Flask.
 2. **Open API:** Push or pull data across platforms.
-3. **Schedule Update::** Update the app with new data with Luigi.
-
-## Requirements
-
-1. Procedural and object-oriented Python skills.
-2. Basic HTML & CSS.
-
+3. **Schedule Update::** Update the app with new data using Luigi.
